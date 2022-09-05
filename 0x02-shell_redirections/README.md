@@ -1,1 +1,1 @@
-display text with new line
+copy last line
