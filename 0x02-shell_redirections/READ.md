@@ -1,1 +1,1 @@
-doesnt contain bin
+not upper case or lower case
