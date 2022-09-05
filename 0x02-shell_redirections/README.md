@@ -1,1 +1,1 @@
-delete
+how to delete
