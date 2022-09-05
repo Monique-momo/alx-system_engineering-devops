@@ -1,1 +1,1 @@
-‘display etc/pass
+4 last line
