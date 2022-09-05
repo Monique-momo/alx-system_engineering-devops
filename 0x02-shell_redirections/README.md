@@ -1,1 +1,1 @@
-11 directories
+count directories
