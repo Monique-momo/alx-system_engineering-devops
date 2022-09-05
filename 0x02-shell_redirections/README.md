@@ -1,1 +1,1 @@
-password file
+‘display smiley
