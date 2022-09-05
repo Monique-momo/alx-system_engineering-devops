@@ -1,1 +1,1 @@
-copy last line
+delete
