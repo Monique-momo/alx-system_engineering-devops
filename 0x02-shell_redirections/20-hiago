@@ -1,0 +1,2 @@
+#!bin/bash
+echo 'Linuxize' | tr -d 'c' 'C'
