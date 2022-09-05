@@ -1,1 +1,1 @@
-3 lines after
+doesnt contain bin
