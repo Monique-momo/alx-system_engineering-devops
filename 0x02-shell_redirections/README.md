@@ -1,1 +1,1 @@
-how to delete
+11 directories
